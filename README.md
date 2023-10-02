@@ -1,3 +1,5 @@
-## school work
-
-this is new for us
+## School 
+this is now but okay 
+```python 
+print("hello world")
+```
